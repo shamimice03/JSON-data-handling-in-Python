@@ -1,0 +1,37 @@
+{
+    "students": [
+        {
+            "name": "Kabir",
+            "age": 19,
+            "grades": {
+                "math": 90,
+                "english": 87
+            }
+        },
+        {
+            "name": "Harry",
+            "age": 21,
+            "grades": {
+                "math": 85,
+                "english": 95
+            }
+        },
+        {
+            "name": "Rabbi",
+            "age": 20,
+            "grades": {
+                "math": 95,
+                "english": 96
+            }
+        },
+        {
+            "name": "Rahim",
+            "age": 19,
+            "grades": {
+                "math": 97,
+                "english": 95
+            }
+        }
+        
+    ]
+}

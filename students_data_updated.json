@@ -1,0 +1,40 @@
+{
+    "students": [
+        {
+            "name": "John",
+            "age": 19,
+            "grades": {
+                "math": 90,
+                "english": 87
+            },
+            "avarage_mark": 88.5
+        },
+        {
+            "name": "Harry",
+            "age": 21,
+            "grades": {
+                "math": 85,
+                "english": 95
+            },
+            "avarage_mark": 90.0
+        },
+        {
+            "name": "Rabbi",
+            "age": 20,
+            "grades": {
+                "math": 95,
+                "english": 96
+            },
+            "avarage_mark": 95.5
+        },
+        {
+            "name": "Rahim",
+            "age": 19,
+            "grades": {
+                "math": 97,
+                "english": 95
+            },
+            "avarage_mark": 96.0
+        }
+    ]
+}
