@@ -7,4 +7,4 @@
 - Mini Project: Play with `OpenWeatherMap` API Response
 
 This repository is the part of the following article: 
-https://medium.com/@shamimice03/json-data-handling-in-python-made-easy-6876d17a79f
+https://levelup.gitconnected.com/json-data-handling-in-python-made-easy-6876d17a79f
